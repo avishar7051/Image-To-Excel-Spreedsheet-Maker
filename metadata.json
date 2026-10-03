@@ -1,0 +1,6 @@
+{
+  "name": "Image to Excel Pro",
+  "description": "Convert images, photos, receipts, invoices, and tabular screenshots into structured Excel spreadsheets instantly using AI vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
