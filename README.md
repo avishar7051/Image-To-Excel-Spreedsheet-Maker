@@ -2,7 +2,8 @@
 
 An AI-powered web application built with Google Gemini Vision to automatically extract tabular data, multi-column sections, invoices, receipts, and structured text from images directly into organized, downloadable Excel (`.xlsx`) spreadsheets.
 
----
+<img width="953" height="377" alt="image" src="https://github.com/user-attachments/assets/e2bb75c8-b9fe-42a1-bcc9-befca629844b" />
+
 
 ## ✨ Features
 
